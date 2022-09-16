@@ -1,5 +1,6 @@
 # elastic-collisions-2d
 # a 2d physics simulation framework for elastic collisions between multiple circular hitboxes
+# constructs quadtrees to avoid redundant checks
 # uses pygame for drawing on screen
 
 # HOW TO USE 
